@@ -9,14 +9,13 @@
 ![](https://streak-stats.demolab.com/?user=assvfi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=assvfi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=assvfi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=assvfi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![ParkGuideApp](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=assvfi&repo=ParkGuideApp)](https://github.com/assvfi/ParkGuideApp)
+[![ParkGuideApp-Backend](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=assvfi&repo=ParkGuideApp-Backend)](https://github.com/assvfi/ParkGuideApp-Backend)
+[![Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=AndrewYii&repo=Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-)](https://github.com/AndrewYii/Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-)
 
 ---
 [![](https://komarev.com/ghpvc/?username=assvfi&icon=0&color=blue)](https://visitcount.itsvg.in)
