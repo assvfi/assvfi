@@ -12,7 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 📌 Featured Projects
 [![ParkGuideApp](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=assvfi&repo=ParkGuideApp)](https://github.com/assvfi/ParkGuideApp)
 [![ParkGuideApp-Backend](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=assvfi&repo=ParkGuideApp-Backend)](https://github.com/assvfi/ParkGuideApp-Backend)
 [![Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-](https://github-readme-stats.shion.dev/api/pin/?theme=dark&hide_border=false&username=AndrewYii&repo=Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-)](https://github.com/AndrewYii/Degree_Assignment2_PHP_Website_Hebrarium-COS10026-CTIP-)
